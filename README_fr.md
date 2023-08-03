@@ -12,18 +12,16 @@ It shall NOT be edited by hand.
 *[Read this readme in english.](./README.md)*
 
 > *Ce package vous permet d’installer Peppermint rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
+
+## Vue d’ensemble
+
+Ceci est une fausse description des fonctionalités de l'app
+
+
+**Version incluse :** 0.2.3~ynh1
+
 ## Captures d’écran
-
-![Capture d’écran de Example app](./doc/screenshots/example.jpg)
-
-## Documentations et ressources
-
-* Site officiel de l’app : <https://example.com>
-* Documentation officielle utilisateur : <https://yunohost.org/apps>
-* Documentation officielle de l’admin : <https://yunohost.org/packaging_apps>
-* Dépôt de code officiel de l’app : <https://some.forge.com/example/example>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_example>
-* Signaler un bug : <https://github.com/YunoHost-Apps/example_ynh/issues>
 
 ![Capture d’écran de Peppermint](./doc/screenshots/example.jpg)
 
