@@ -16,7 +16,16 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Overview
 
-This is a dummy description of this app features
+Peppermint is a self hosted alternative to popular services such as zendesk
+
+### Features
+
+- Ticket Creation: Bog standard ticket creation with a markdown editor and file uploads
+- A log of client history
+- Markdown based Notebook with todo lists
+- Responsive: Designed for variable screen sizes from mobile up to 4k
+- Multi-deployment: Quickly deploy using docker & pm2
+- Simple to Use: Designed to be easy to use with a simple logical workflow
 
 
 **Shipped version:** 0.2.3~ynh1
