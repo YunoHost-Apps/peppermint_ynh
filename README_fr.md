@@ -5,9 +5,9 @@ It shall NOT be edited by hand.
 
 # Peppermint pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/ peppermint.svg)](https://dash.yunohost.org/appci/app/ peppermint) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/ peppermint.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/ peppermint.maintain.svg)
+[![Niveau d’intégration](https://dash.yunohost.org/integration/peppermint.svg)](https://dash.yunohost.org/appci/app/peppermint) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/peppermint.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/peppermint.maintain.svg)
 
-[![Installer Peppermint avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app= peppermint)
+[![Installer Peppermint avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=peppermint)
 
 *[Read this readme in english.](./README.md)*
 
@@ -39,19 +39,19 @@ Peppermint is a self hosted alternative to popular services such as zendesk
 * Site officiel de l’app : <https://peppermint.sh/>
 * Documentation officielle de l’admin : <https://docs.peppermint.sh/>
 * Dépôt de code officiel de l’app : <https://github.com/Peppermint-Lab/peppermint>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_ peppermint>
-* Signaler un bug : <https://github.com/YunoHost-Apps/ peppermint_ynh/issues>
+* Documentation YunoHost pour cette app : <https://yunohost.org/app_peppermint>
+* Signaler un bug : <https://github.com/YunoHost-Apps/peppermint_ynh/issues>
 
 ## Informations pour les développeurs
 
-Merci de faire vos pull request sur la [branche testing](https://github.com/YunoHost-Apps/ peppermint_ynh/tree/testing).
+Merci de faire vos pull request sur la [branche testing](https://github.com/YunoHost-Apps/peppermint_ynh/tree/testing).
 
 Pour essayer la branche testing, procédez comme suit.
 
 ``` bash
-sudo yunohost app install https://github.com/YunoHost-Apps/ peppermint_ynh/tree/testing --debug
+sudo yunohost app install https://github.com/YunoHost-Apps/peppermint_ynh/tree/testing --debug
 ou
-sudo yunohost app upgrade  peppermint -u https://github.com/YunoHost-Apps/ peppermint_ynh/tree/testing --debug
+sudo yunohost app upgrade peppermint -u https://github.com/YunoHost-Apps/peppermint_ynh/tree/testing --debug
 ```
 
 **Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
