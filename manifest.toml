@@ -1,6 +1,6 @@
 packaging_format = 2
 
-id = " peppermint"
+id = "peppermint"
 name = "Peppermint"
 description.en = "Ticket management & help desk solution"
 description.fr = "Ticket management & help desk solution"
