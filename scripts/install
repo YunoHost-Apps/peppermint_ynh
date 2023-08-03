@@ -29,6 +29,7 @@ ynh_script_progression --message="Adding system configurations related to $app..
 # Create a dedicated NGINX config using the conf/nginx.conf template
 ynh_add_nginx_config
 
+env_path="$PATH"
 # Create a dedicated systemd config
 ynh_add_systemd_config
 
@@ -57,8 +58,6 @@ pushd $install_dir
 	ynh_exec_warn_less ynh_exec_as $app env $ynh_node_load_PATH yarn run generate
 	ynh_exec_warn_less ynh_exec_as $app env $ynh_node_load_PATH yarn run seed
 popd
-
-#yarn run migrate && yarn run generate && yarn run seed && yarn start
 
 #=================================================
 # GENERIC FINALIZATION
