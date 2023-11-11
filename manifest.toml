@@ -10,7 +10,7 @@ version = "0.2.3~ynh1"
 maintainers = ["eric_G"]
 
 [upstream]
-license = "free"
+license = "GPL-3.0"
 website = "https://peppermint.sh/"
 admindoc = "https://docs.peppermint.sh/"
 code = "https://github.com/Peppermint-Lab/peppermint"
