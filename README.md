@@ -39,7 +39,7 @@ Peppermint is a self hosted alternative to popular services such as zendesk
 * Official app website: <https://peppermint.sh/>
 * Official admin documentation: <https://docs.peppermint.sh/>
 * Upstream app code repository: <https://github.com/Peppermint-Lab/peppermint>
-* YunoHost documentation for this app: <https://yunohost.org/app_peppermint>
+* YunoHost Store: <https://apps.yunohost.org/app/peppermint>
 * Report a bug: <https://github.com/YunoHost-Apps/peppermint_ynh/issues>
 
 ## Developer info
